@@ -1,4 +1,5 @@
 # IMDB APP
+  Python must be installed
 # installation
   Windows:
   
